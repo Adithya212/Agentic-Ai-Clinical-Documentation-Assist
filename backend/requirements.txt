@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+langchain
+llama-index
+langchain_community
+ollama  # Interface for running local LLaMA models
